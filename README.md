@@ -23,5 +23,5 @@ In the collector lambda, using the yfinance module, I was interested in gaining 
 ![Alt text](https://github.com/jinote/Streaming-yfinance-data-analysis/blob/main/kinesis_config.jpg)
 
 ### Execution Results in AWS Lambda Management Console
-![Alt text]()
+![Alt text](https://github.com/jinote/Streaming-yfinance-data-analysis/blob/main/exec_results.jpeg)
 
