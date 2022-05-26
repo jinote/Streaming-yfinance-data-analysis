@@ -3,7 +3,7 @@
 **Course**: CIS9760<br>
 **Date**: 5/24/2022<br>
 
-For this project, I used a Lambda function to generate near real time finance data records for interactive querying. I generated a real time data pipeline for finance data records for interactive querying.
+For this project, I used a Lambda function to generate near real time finance data records for interactive querying.
 
 ### Infrastructure
 The project consists of four major infrastructure elements that work in tandem:
